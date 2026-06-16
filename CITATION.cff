@@ -11,7 +11,9 @@ authors:
   - family-names: Tang
     given-names: Lixin
 version: 1.0.0
-date-released: 2026-06-15
+date-released: 2026-06-16
+doi: 10.5281/zenodo.20712722
+url: "https://doi.org/10.5281/zenodo.20712722"
 repository-code: "https://github.com/IniSen/case2026-cluster-tool-companion-report"
 license: CC-BY-4.0
 keywords:
