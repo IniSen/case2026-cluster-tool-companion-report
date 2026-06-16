@@ -1,0 +1,23 @@
+{
+  "title": "Clean-Aware CP-Guided Large Neighborhood Search with Event-Level Validation for Semiconductor Cluster Tool Scheduling: Extended Companion Report",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "Extended companion report for the CASE2026 conference paper on clean-aware CP-guided large neighborhood search for semiconductor cluster tool scheduling under JIT time-lag constraints.",
+  "creators": [
+    {"name": "Li, Sen", "affiliation": "Northeastern University"},
+    {"name": "Xu, Te", "affiliation": "Northeastern University"},
+    {"name": "Sun, Defeng", "affiliation": "Northeastern University"},
+    {"name": "Tang, Lixin", "affiliation": "Northeastern University"}
+  ],
+  "keywords": [
+    "semiconductor manufacturing",
+    "cluster tool scheduling",
+    "constraint programming",
+    "large neighborhood search",
+    "just-in-time time lag",
+    "event-level validation"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0"
+}

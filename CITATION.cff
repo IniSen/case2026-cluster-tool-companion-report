@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Clean-Aware CP-Guided Large Neighborhood Search with Event-Level Validation for Semiconductor Cluster Tool Scheduling: Extended Companion Report"
+type: report
+authors:
+  - family-names: Li
+    given-names: Sen
+  - family-names: Xu
+    given-names: Te
+  - family-names: Sun
+    given-names: Defeng
+  - family-names: Tang
+    given-names: Lixin
+version: 1.0.0
+date-released: 2026-06-15
+repository-code: "https://github.com/IniSen/case2026-cluster-tool-companion-report"
+license: CC-BY-4.0
+keywords:
+  - semiconductor manufacturing
+  - cluster tool scheduling
+  - constraint programming
+  - large neighborhood search
+  - just-in-time time lag
+  - event-level validation
