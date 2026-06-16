@@ -12,8 +12,8 @@ The report is an extended technical companion that documents the modeling layers
 
 ## DOI
 
-Zenodo record: https://doi.org/10.5281/zenodo.20712722
+Zenodo record: https://doi.org/10.5281/zenodo.20712936
 
 ## Citation
 
-Li, S., Xu, T., Sun, D., and Tang, L. (2026). *Clean-Aware CP-Guided Large Neighborhood Search with Event-Level Validation for Semiconductor Cluster Tool Scheduling: Extended Companion Report*. Zenodo. https://doi.org/10.5281/zenodo.20712722
+Li, S., Xu, T., Sun, D., and Tang, L. (2026). *Clean-Aware CP-Guided Large Neighborhood Search with Event-Level Validation for Semiconductor Cluster Tool Scheduling: Extended Companion Report*. Zenodo. https://doi.org/10.5281/zenodo.20712936
